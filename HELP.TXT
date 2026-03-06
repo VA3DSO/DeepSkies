@@ -1,0 +1,48 @@
+This application is an electronic star atlas that will compute the appearance of the sky for the computer's current date and time.
+
+MOUSE:
+Single click the mouse to center the field of view on that location. Right click the mouse on an object to see more information on that object. In the information window, you can keep your own observing notes on the objects you've selected.
+
+ARROW KEYS:
+Using the arrow keys, you can navigate around the celestial sphere in right ascension and declination. Use the shift key with the arrow keys to move around more slowly.
+
+HOME/END KEYS:
+Using the home key, you can increase your field of view and see more of the sky. Using the end key, you can decrease your field of view and narrow in on an object of interest.
+
+INSERT/DELETE KEYS:
+Use the insert and delete keys to adjust your view's limiting magnitude. Insert adds more stars and makes your limiting magnitude value go up. Delete removes stars and makes your limiting magnitude value go down.
+
+F1 - HELP:
+Press the F1 key to bring up the instructions for using the DeepSkies program. (This text!)
+
+F2 - LEGEND:
+Press the F2 key to view a help dialog that shows you what all the various deep sky object symbols are.
+
+F3 - SEARCH:
+Press the F3 key to access the search box. You can search for a star, a deep sky object, or a constellation.
+
+F4 - OBSERVING LIST:
+Press the F4 key to bring up a sizable window containing a listing of hundreds of objects. This list (called the APO-102 Target List) is a listing of deep sky objects that are suitable for observing through a 4-inch or smaller APO refractor. This list is simply a text file and is completely customizable.
+
+F7 - GOTO:
+Press the F7 key to access the GOTO feature which will allow you to specify the right ascension, declination, field of view and limiting magnitude you'd like to see on your display.
+
+R - RESET:
+Press the R key to reset the view to the start up view (of Cygnus).
+
+Q - QUIT:
+Press teh Q key to exit the program.
+
+MENUS:
+
+Under File, you can choose Exit. It does the same as the Q key. You can also Save and Open files (.dsm files) that will let you essentially bookmark different views through DeepSkies. It will store your current right ascension, declination, field of view and limiting magnitude for later retreival. There is also a print function that is still in beta!
+
+Under Edit, you can Search [F3] or GoTo [F7] - both described above.
+
+Under View, you can toggle on/off various objects on the display such as labels, stars, gridlines, deep sky objects, etc. There are also two shortcuts - All On and All Off that turn all the features on or off.
+
+Under Tools, you can open the observing list (described above). You can also load the program defaults (same as R above), and you can save your current view as the default view. This not only includes your current RA, Dec, FOV and Mag, but also all your options under the View menu such as labels, constellations, stars, DSOs, etc.
+
+Under Help, you can view this document under Information, or you can see the About box. You can also call up a legend of deep sky objects used by this program (described above).
+
+[END]
