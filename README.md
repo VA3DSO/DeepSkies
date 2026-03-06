@@ -2,9 +2,9 @@
 
 ![dswin](https://github.com/user-attachments/assets/ab4bb87a-1136-49af-9fef-b428574766eb)
 
-I recently found the source code (Visual Basic 4) for my DeepSkies atlas for 
+*I recently found the source code (Visual Basic 4) for my DeepSkies atlas for 
 Windows. I decided to upload it here to GitHub for posterity. Here is the
-verbiage regarding the atlas from my website:  
+verbiage regarding the atlas from my website:*
 
 This star atlas was programmed a while back over many years and was a pet project of mine. The goal was not to re-invent the wheel (there are plenty of top-shelf star atlas applications out there already!), but more as a learning experience to teach myself a bit more about astrometry as well as the programming algorithms associated with astronomy. This application is more of a beta or prototype than anything, however it is more or less fully functional. The only glaring omission is a working Print command. There is one in the code, but it does not work properly. Everything else in the menus does function, but your mileage may vary.
 
@@ -46,7 +46,7 @@ I thought of working on a Version 2.0 of DeepSkies that would be much more sophi
 
 This software is offered free of charge with no warranty given or implied. Installation is simple:
 
-- download the dswin.7z file [PART 1] [PART 2] [PART 3] (64 MB total) and extract it somewhere to your computer
+- download the dswin.7z file [PART 1](https://deepskies.com/files/dswin.7z.001), [PART 2](https://deepskies.com/files/dswin.7z.002), [PART 3](https://deepskies.com/files/dswin.7z.003) (64 MB total) and extract it somewhere to your computer
 - double click on dswin.exe to run it!
 
 You can create a shortcut on your computer to the .exe file if you wish. To run this application, you need a 32-bit version of Microsoft Windows:
@@ -56,6 +56,6 @@ You can create a shortcut on your computer to the .exe file if you wish. To run 
 - Windows 2000/XP
 - Windows Vista/7/8/10/11 (use XP Compatiblity Mode)
 
-Note: If you get an error that MSVCRT20.DLL is missing, then you also need to install some support files for Visual Basic 4.0: vbrun40.zip
+Note: If you get an error that MSVCRT20.DLL is missing, then you also need to install some support files for Visual Basic 4.0: [vbrun40.zip](https://deepskies.com/files/vbrun40.zip)
 
 If you find the application either useful or amusing, send me an e-mail: rick@deepskies.com and let me know what you think! 
