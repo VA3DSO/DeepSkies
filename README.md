@@ -1,5 +1,7 @@
 # DeepSkies Atlas
 
+![dswin](https://github.com/user-attachments/assets/ab4bb87a-1136-49af-9fef-b428574766eb)
+
 I recently found the source code (Visual Basic 4) for my DeepSkies atlas for 
 Windows. I decided to upload it here to GitHub for posterity. Here is the
 verbiage regarding the atlas from my website:  
